@@ -290,8 +290,8 @@
       "catexp": 0
     },
     "6282125841007@s.whatsapp.net": {
-      "exp": 1076,
-      "limit": -4,
+      "exp": 1091,
+      "limit": -5,
       "joinlimit": 1,
       "spammer": 0,
       "money": 10000,
@@ -869,7 +869,7 @@
     },
     "6285161417500@s.whatsapp.net": {
       "exp": 2015,
-      "limit": 26,
+      "limit": 9999,
       "joinlimit": 1,
       "spammer": 0,
       "money": 20000,
@@ -1712,7 +1712,7 @@
       }
     },
     "6281392315867@s.whatsapp.net": {
-      "exp": 233,
+      "exp": 237,
       "limit": 999,
       "joinlimit": 1,
       "spammer": 0,
@@ -2261,10 +2261,10 @@
       "lastSuccess": 1709403058370
     },
     "kemii-play.js": {
-      "total": 9,
-      "success": 9,
-      "last": 1709525162103,
-      "lastSuccess": 1709525162103
+      "total": 10,
+      "success": 10,
+      "last": 1709525356185,
+      "lastSuccess": 1709525356185
     },
     "lirplay.js": {
       "total": 4,
