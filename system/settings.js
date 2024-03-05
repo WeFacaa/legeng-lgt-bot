@@ -103,8 +103,8 @@ global.thumbnail = 'https://th.bing.com/th/id/OIP.iYdh84MgtYsc45EwGn-oQgAAAA?rs=
 global.myfile = fs.readFileSync(`./media/xfile.pdf`)
 global.thumb2 = fs.readFileSync('./media/thumbnail.mp4')
 global.qris = ''
-global.email = 'pstar9575@gmail.com'
-global.creator = "6281212083401@s.whatsapp.net"
+global.email = 'thurvans@gmail.com'
+global.creator = "6282125841007@s.whatsapp.net"
 global.nomorbot = '6289526651029'
 global.nomorown = '6282125841007'
 global.pairingNumber = '6289526651029'

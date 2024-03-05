@@ -290,7 +290,7 @@
       "catexp": 0
     },
     "6282125841007@s.whatsapp.net": {
-      "exp": 1091,
+      "exp": 1097,
       "limit": -5,
       "joinlimit": 1,
       "spammer": 0,
@@ -2267,10 +2267,10 @@
       "lastSuccess": 1709525356185
     },
     "lirplay.js": {
-      "total": 4,
-      "success": 4,
-      "last": 1709428440413,
-      "lastSuccess": 1709428440413
+      "total": 5,
+      "success": 5,
+      "last": 1709534440692,
+      "lastSuccess": 1709534440692
     },
     "game-tebakkata.js": {
       "total": 2,
